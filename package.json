@@ -28,7 +28,7 @@
     "test": "grunt nodeunit -v"
   },
   "dependencies": {
-    "gaze": "~0.2.0"
+    "gaze": "git://github.com/rgaskill/gaze.git#rename"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.1.0",
